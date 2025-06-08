@@ -28,10 +28,10 @@ Ogni lavoro è fatto con attenzione, rigore e una cura maniacale per ogni dettag
 
 ## Struttura della repository
 
-- "/pagina-web/" – Codice e struttura del sito ufficiale
+- "/website/" – Codice e struttura del sito ufficiale
 - "/builds/" – Galleria di build, schede tecniche, dettagli e componenti
 - "/assets/" – Loghi, grafiche, biglietti da visita, visual identity
-- "/documenti/" – Listino, ricevute non fiscali, moduli, manuali e guide
+- "/document/" – Listino, ricevute non fiscali, moduli, manuali e guide
 
 ---
 
